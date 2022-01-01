@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Open Sans";
+    src: url(fonts/OpenSans/OpenSans-VariableFont_wdth\,wght.ttf);
+}
+
+body {
+    font-family: "Open Sans";
+    color: white;
+    background-color: rgb(45, 45, 45);
+}
+
+header {
+    background-color: rgb(0, 66, 128);
+}
+
+nav {
+    background-color: rgb(0, 91, 175);
+}
